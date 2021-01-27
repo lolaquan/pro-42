@@ -1,4 +1,4 @@
-class createDrop{
+class Drops{
     constructor(x,y){
         var options = {
             friction: 0.001,
